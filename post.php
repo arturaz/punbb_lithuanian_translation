@@ -4,57 +4,57 @@
 $lang_post = array(
 
 // Post validation stuff (many are similar to those in edit.php)
-'No subject'			=>	'Topics must contain a subject.',
-'Too long subject'		=>	'Subjects cannot be longer than 70 characters.',
-'All caps subject'		=>	'Subjects cannot contain only capital letters.',
-'No message'			=>	'You must enter a message.',
-'Too long message'		=>	'Your post length is %s bytes. This exceeds the %s bytes limit.',
-'All caps message'		=>	'Posts cannot contain only capital letters.',
-'CSRF token mismatch'	=>	'Unable to confirm security token. A likely cause for this is that some time passed between when you first entered the page and when you posted the form. Clicking "Submit" again should solve the problem.',
-'Invalid e-mail'		=>	'The e-mail address you entered is invalid.',
+'No subject'			=>	'Tema privalo turėti antraštę.',
+'Too long subject'		=>	'Antraštė negali būti ilgesnė nei 70 simbolių.',
+'All caps subject'		=>	'Antraštė negali būti sudaryta vien iš didžiųjų raidžių.',
+'No message'			=>	'Privalai įvesti temos žinutę.',
+'Too long message'		=>	'Tavo žinutė, kuri yra %s baitų dydžio, viršija maksimalų leistiną %s baitų dydį.',
+'All caps message'		=>	'Žinutė negali būti sudaryta vien iš didžiųjų raidžių.',
+'CSRF token mismatch'	=>	'Negalime patvirtinti saugumo kodo. Greičiausiai taip nutiko dėl to, jog praėjo per ilgas laiko tarpas tarp puslapio atidarymo ir žinutės išsiuntimo. Pabandykite išsiųsti žinutę dar kartą.',
+'Invalid e-mail'		=>	'Įvestas el. pašto adresas yra neteisingas.',
 
 // Posting
-'Compose your reply'	=>	'Compose and post your new reply',
-'Compose your topic'	=>	'Compose and post your new topic',
-'Compose edited reply'	=>	'Compose and post your edited reply',
-'Compose edited topic'	=>	'Compose and post your edited topic',
+'Compose your reply'	=>	'Atsakymas',
+'Compose your topic'	=>	'Temos kūrimas',
+'Compose edited reply'	=>	'Atsakymo redagavimas',
+'Compose edited topic'	=>	'Temos redagavimas',
 'Guest post legend'		=>	'Required information for guests',
-'Post errors'			=>	'<strong>Warning!</strong> The following errors must be corrected before your message can be posted:',
-'Guest name'			=>	'Guest name',	// For guests (instead of Username)
-'Guest e-mail'			=>	'Guest e-mail',
-'Post redirect'			=>	'Post entered. Redirecting…',
-'Post reply'			=>	'Post new reply',
-'Post new topic'		=>	'Post new topic',
-'Topic subject'			=>	'Topic subject',
-'Write message'			=>	'Write message',
-'Hide smilies'			=>	'Never show smilies as icons (images) for this post.',
-'Subscribe'				=>	'Subscribe to this topic.',
-'Stay subscribed'		=>	'Stay subscribed to this topic.',
-'Topic review'			=>	'Topic review (newest first)',
-'Flood'					=>	'At least %s seconds have to pass between posts. Please wait a while and try posting again.',
-'Permalink post'		=>	'Permanent link to this post',
-'Post settings'			=>	'Optional post settings',
-'Preview reply'			=>	'Preview your new reply',
-'Preview new topic'		=>	'Preview your new topic',
-'Preview reply'			=>	'Preview reply', // For preview button
-'Preview topic'			=>	'Preview topic', // For preview button
-'Submit reply'			=>	'Submit reply', // For submit button
-'Submit topic'			=>	'Submit topic', // For submit button
-'Post byline'			=>	'<span>Post by </span>%s',
-'Topic byline'			=>	'<span>Topic by </span>%s',
-'Reply byline'			=>	'<span>Reply by </span>%s',
-'Post posted'			=>	'<span>Posted </span>%s',
+'Post errors'			=>	'<strong>Dėmesio!</strong> Privalai ištaisyti šias klaidas:',
+'Guest name'			=>	'Svečio vardas',	// For guests (instead of Username)
+'Guest e-mail'			=>	'Svečio el. paštas',
+'Post redirect'			=>	'Žinutė išsiųsta. Nukreipiama…',
+'Post reply'			=>	'Atsakyti į temą',
+'Post new topic'		=>	'Kurti naują temą',
+'Topic subject'			=>	'Temos antraštė',
+'Write message'			=>	'Žinutės tekstas',
+'Hide smilies'			=>	'Šioje žinutėje nerodyti šypsenėlių kaip paveiksliukų.',
+'Subscribe'				=>	'Užsiprenumeruoti šią temą.',
+'Stay subscribed'		=>	'Užsiprenumeruoti šią temą.',
+'Topic review'			=>	'Temos peržiūrą (naujausios žinutės viršuje)',
+'Flood'					=>	'Tarp žinučių turi praeiti bent jau %s sekundžių tarpas. Prašome palaukti prieš rašant naują pranešimą.',
+'Permalink post'		=>	'Nuolatinė nuoroda į šią žinutę',
+'Post settings'			=>	'Papildomi žinutės nustatymai',
+'Preview reply'			=>	'Atsakymo peržiūra',
+'Preview new topic'		=>	'Temos peržiūra',
+'Preview reply'			=>	'Peržiūrėti atsakymą', // For preview button
+'Preview topic'			=>	'Peržiūrėti temą', // For preview button
+'Submit reply'			=>	'Rašyti atsakymą', // For submit button
+'Submit topic'			=>	'Siųsti temą', // For submit button
+'Post byline'			=>	'<span>Žinutę parašė </span>%s',
+'Topic byline'			=>	'<span>Temą sukūrė </span>%s',
+'Reply byline'			=>	'<span>Atsakymą parašė </span>%s',
+'Post posted'			=>	'<span>Sukurta </span>%s',
 
 
 
 
 // Edit post
-'Edit post legend'		=>	'Edit message',
-'Edit topic'			=>	'Edit topic',
-'Edit reply'			=>	'Edit reply',
-'Silent edit'			=>	'Silent edit (don\'t display "Last edited by…" in topic view for this edit).',
-'Preview edited topic'	=>	'Preview of your edited topic',
-'Preview edited reply'	=>	'Preview of your edited reply',
-'Edit redirect'			=>	'Post updated. Redirecting…'
+'Edit post legend'		=>	'Redaguoti žinutę',
+'Edit topic'			=>	'Redaguoti temą',
+'Edit reply'			=>	'Redaguoti atsakymą',
+'Silent edit'			=>	'Tylusis redagavimas (peržiūrint temą nerodyti "Paskutinį kartą redagavo…" šiam redagavimui).',
+'Preview edited topic'	=>	'Redaguotos temos peržiūra',
+'Preview edited reply'	=>	'Redaguoto atsakymo peržiūra',
+'Edit redirect'			=>	'Žinutė atnaujinta. Nukreipiama…'
 
 );

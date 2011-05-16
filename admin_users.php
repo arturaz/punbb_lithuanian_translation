@@ -2,6 +2,10 @@
 
 // Language definitions used in all admin files
 $lang_admin_users = array(
+// This was automerged by merge.php
+  "Ban settings legend" => "Ban users",
+// End of automerged section.
+
 
 // admin_users
 'Search head'					=>	'Find users',

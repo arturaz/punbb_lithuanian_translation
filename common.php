@@ -2,7 +2,6 @@
 
 // Language definitions for frequently used strings
 $lang_common = array(
-
 // Text orientation and encoding
 'lang_direction'			=>	'ltr',	// ltr (Left-To-Right) or rtl (Right-To-Left)
 'lang_identifier'			=>	'lt',
@@ -36,7 +35,7 @@ $lang_common = array(
 'Forum message'				=>	'Forumo žinutė',
 'Maintenance warning'		=>	'<strong>DĖMESIO! %s Įjungtas.</strong> NEATSIJUNKITE NUO SISTEMOS nes jums nepavyks vėl prie jos prisijungti.',
 'Maintenance mode'			=>	'Techninė profilaktika',
-'Redirecting'				=>	'Peradresuojama',
+'Redirecting'				=>	'Nukreipiama',
 'Forwarding info'			=>	'Jūs būsite automatiškai nusiųstas į naują puslapį už %s %s.',
 'second'					=>	'sekundė',	// singular
 'seconds'					=>	'sekundės',	// plural
@@ -142,7 +141,7 @@ $lang_common = array(
 'Database mismatch alert'	=>	'Your PunBB database is meant to be used in conjunction with a newer version of the PunBB code. This mismatch can lead to your forum not working properly. It is suggested that you upgrade your forum to the newest version of PunBB.',
 
 // Stuff for Jump Menu
-'Go'						=>	'Go',		// submit button in forum jump
+'Go'						=>	'Eiti',		// submit button in forum jump
 'Jump to'					=>	'Peršokti į forumą:',
 
 // For extern.php RSS feed
@@ -160,5 +159,7 @@ $lang_common = array(
 'Query times'						=>	'Time (s)',
 'Query'							=>	'Query',
 'Total query time'					=>	'Total query time',
+  "Installed extension" => "%s oficialus išplėtimas yra įdiegtas. Teisės priklauso &copy; 2003&ndash;2011 <a href=\"http://punbb.informer.com/\">PunBB</a>.",
+  "Installed extensions" => "Forume įdiegti <span id=\"extensions-used\" title=\"%s\">%s oficialūs išplėtimai</span>. Teisės priklauso &copy; 2003&ndash;2011 <a href=\"http://punbb.informer.com/\">PunBB</a>.",
 
 );

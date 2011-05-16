@@ -2,6 +2,11 @@
 
 // Language definitions used in various scripts
 $lang_misc = array(
+// This was automerged by merge.php
+  "Too long reason" => "Your report length is %s bytes. This exceeds the %s bytes limit.",
+  "Report errors" => "<strong>Warning!</strong> The following errors must be corrected before your report can be sending:",
+// End of automerged section.
+
 
 'Mark read redirect'		=>	'All topics and forums have been marked as read. Redirecting…',
 'Mark forum read redirect'	=>	'All topics in the specified forum have been marked as read. Redirecting…',

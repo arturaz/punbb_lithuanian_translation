@@ -1,6 +1,10 @@
 <?php
 
 $lang_profile = array(
+// This was automerged by merge.php
+  "Signature quote/code/list" => "Signature may not contain of the text formatting tags (BBCode) [quote], [code] or [list]. Please choose another tags or delete it.",
+// End of automerged section.
+
 
 // Navigation and sections
 'Profile redirect'			=>	'Vartotojo informacija atnaujinta. Persiunčiama…',
