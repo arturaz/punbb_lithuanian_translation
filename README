@@ -1,0 +1,3 @@
+Everything but extensions/ goes to punbb/lang/Lithuanian/
+
+extensions/* goes to punbb/extensions/extension_name/lang/Lithuanian/

@@ -44,7 +44,7 @@ $lang_topic = array(
 'Open'					=>  'Atverti temą',
 'Close'					=>  'Uždaryti temą',
 'Unstick'				=>  'Padaryti paprasta tema',
-'Stick'					=>  'Padaryti dažna tema',
+'Stick'					=>  'Padaryti lipnia tema',
 'Moderate topic'		=>	'Moderuoti temą',
 'Required warn'			=>	'Negalite siųsti arba peržiūrėti tuščios žinutės.',
 
